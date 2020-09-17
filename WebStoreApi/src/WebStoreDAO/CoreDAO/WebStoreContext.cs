@@ -17,7 +17,7 @@ namespace WebStoreDAO.CoreDAO
             {
                 optionsBuilder
                     // .UseLoggerFactory(ConsoleLoggerFactory)
-                    .UseMySQL("server=localhost;database=webstore;user=root;password=Vamosleia#-3c");
+                    .UseMySQL("server=25.1.131.56;database=webstore;user=serginho;password=1234");
                     // .UseNpgsql(DaoSettingsUtil.StringConexao, 
                     //     builder => 
                     //     {

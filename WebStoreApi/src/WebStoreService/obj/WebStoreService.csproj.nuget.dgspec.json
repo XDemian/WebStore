@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreService\\WebStoreService.csproj": {}
+    "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreService\\WebStoreService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreDAO\\WebStoreDAO.csproj": {
+    "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreDAO\\WebStoreDAO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreDAO\\WebStoreDAO.csproj",
+        "projectUniqueName": "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreDAO\\WebStoreDAO.csproj",
         "projectName": "WebStoreDAO",
-        "projectPath": "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreDAO\\WebStoreDAO.csproj",
-        "packagesPath": "C:\\Users\\rschm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreDAO\\obj\\",
+        "projectPath": "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreDAO\\WebStoreDAO.csproj",
+        "packagesPath": "C:\\Users\\XDemian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreDAO\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rschm\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\XDemian\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -28,8 +25,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreModel\\WebStoreModel.csproj": {
-                "projectPath": "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreModel\\WebStoreModel.csproj"
+              "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreModel\\WebStoreModel.csproj": {
+                "projectPath": "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreModel\\WebStoreModel.csproj"
               }
             }
           }
@@ -77,24 +74,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreModel\\WebStoreModel.csproj": {
+    "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreModel\\WebStoreModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreModel\\WebStoreModel.csproj",
+        "projectUniqueName": "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreModel\\WebStoreModel.csproj",
         "projectName": "WebStoreModel",
-        "projectPath": "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreModel\\WebStoreModel.csproj",
-        "packagesPath": "C:\\Users\\rschm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreModel\\obj\\",
+        "projectPath": "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreModel\\WebStoreModel.csproj",
+        "packagesPath": "C:\\Users\\XDemian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreModel\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rschm\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\XDemian\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -148,24 +142,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreService\\WebStoreService.csproj": {
+    "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreService\\WebStoreService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreService\\WebStoreService.csproj",
+        "projectUniqueName": "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreService\\WebStoreService.csproj",
         "projectName": "WebStoreService",
-        "projectPath": "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreService\\WebStoreService.csproj",
-        "packagesPath": "C:\\Users\\rschm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreService\\obj\\",
+        "projectPath": "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreService\\WebStoreService.csproj",
+        "packagesPath": "C:\\Users\\XDemian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rschm\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\XDemian\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -176,11 +167,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreDAO\\WebStoreDAO.csproj": {
-                "projectPath": "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreDAO\\WebStoreDAO.csproj"
+              "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreDAO\\WebStoreDAO.csproj": {
+                "projectPath": "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreDAO\\WebStoreDAO.csproj"
               },
-              "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreModel\\WebStoreModel.csproj": {
-                "projectPath": "C:\\Users\\rschm\\OneDrive\\Documents\\.NetProjects\\WebStore\\src\\WebStoreModel\\WebStoreModel.csproj"
+              "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreModel\\WebStoreModel.csproj": {
+                "projectPath": "C:\\Users\\XDemian\\Documents\\Projeto_Full_Stack\\WebStore\\WebStoreApi\\src\\WebStoreModel\\WebStoreModel.csproj"
               }
             }
           }
@@ -229,7 +220,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

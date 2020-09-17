@@ -21,7 +21,7 @@ namespace WebStoreService
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<WebStoreContext>(opt =>
-               opt.UseMySQL("server=localhost;database=webstore;user=root;password=Vamosleia#-3c"));
+               opt.UseMySQL("server=25.1.131.56;database=webstore;user=serginho;password=1234"));
             services.AddControllers();
             services.AddTransient<UnitOfWork, UnitOfWork>();
         }
